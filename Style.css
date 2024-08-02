@@ -1,0 +1,193 @@
+a, h1, h2, h3, div, body, html, p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    
+  }
+
+  body { 
+
+    background-color: rgb(247, 247, 123);
+  }
+ 
+ 
+  /* <-----Header stuff overall and p------>*/
+  
+  #HeaderMain{
+    background-color: orange;
+    width: 100%;
+    
+    
+  }
+#Typetext {
+float: right;
+
+}
+
+#HeaderMain p {
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    padding-left: 30px;
+
+}
+
+  /* <-----Header stuff Link section------>*/
+
+
+#nav {
+    float: right;
+    padding: 10px;
+    padding-right: 50px;
+
+  }
+  
+  #nav  a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px;
+
+
+  }
+  
+  /**************************/
+  /******** The boxes ********/
+
+ #Dashy2 p {
+    margin-top: 20px;
+    font-size: 70%;
+ }
+
+  .Dashy3 {
+    padding: 10px;
+    margin: 20px;
+    margin-left: 150px;
+    height:400px;
+    width: 200px;
+
+    top:50%;
+    margin-top: 50px;
+    border: 1.5px solid orange;
+    float: left;
+    background-color: #ffffff;
+    border-radius: 2rem;
+
+    
+
+
+  }
+
+  .Dashy3p {
+    margin-top: 160px;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    width: 99%;    
+    padding: 0px;
+    font-size: 20px;
+    
+
+    
+
+  }
+
+
+
+
+  .Dashy4 {
+
+ 
+    padding: 10px;
+    margin: 0px;
+    height:400px;
+    width: 200px;
+
+    top:50%;
+    margin-top: 50px;
+    border: 1.5px solid orange;
+    float: left;
+    background-color: #ffffff;
+    border-radius: 2rem;
+
+  }
+
+  .Dashy4p {
+    margin-top: 106px;
+    text-align: center;
+    background-color:orange;
+    color: white;
+    width: 99%;    
+    padding: 0px;
+    font-size: 20px;
+    
+
+  }
+
+
+
+  .Dashy5 {
+ 
+    padding: 10px;
+    margin: 20px;
+    height:400px;
+    width: 200px;
+
+    top:50%;
+    margin-top: 50px;
+    border: 1.5px solid orange;
+    float: left;
+    background-color: #ffffff;
+    border-radius: 2rem;
+
+
+  }
+
+  .Dashy45p {
+    margin-top: 106px;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    width: 99%;    
+    padding: 0px;
+    font-size: 20px;
+    
+
+  }
+
+
+  .Dashy6 {
+ 
+    padding: 10px;
+    height:400px;
+    width: 200px;
+
+    top:50%;
+    margin-top: 50px;
+    border: 1.5px solid orange;
+    float: left;
+    background-color: #ffffff;
+    border-radius: 2rem;
+
+  }
+
+  .Dashy5p {
+    margin-top: 93px;
+    text-align: center;
+    background-color: orange;
+    color: white;
+    width: 99%;    
+    padding: 0px;
+    font-size: 20px;
+    
+
+  }
+
+
+
+
+  
+
+  
+  
